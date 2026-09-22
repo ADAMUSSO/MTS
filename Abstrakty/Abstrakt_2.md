@@ -1,4 +1,4 @@
-# Manažment cieľov v softvérovom projekte (Prednaska 10)
+# Manažment cieľov v softvérovom projekte (Prednaska 11)
 
 - **Členovia tímu:** Nikolas Knapík, Adam Svitek
 - **Číslo tímu:** tím 5
