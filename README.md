@@ -10,3 +10,5 @@
 
 ## Tema 2: Prednaska 11 - Manažment cieľov v softvérovom projekte.
 [Abstrak 2](Abstrakty/Abstrakt_2.md)
+
+[Študijný HTML sprievodca k eseji a prezentácii](Manazment-cielov.html) — vysvetlenia, zdroje, podmienky predmetu, osnova a pracovné pomôcky. Otvor súbor v prehliadači.
