@@ -4,7 +4,7 @@ Tím 5 · Adam Svitek, Nikolas Knapík · streda 13:00 – 14:00
 
 Druhá verzia prezentácie k téme 1 (súbor `Manažment komunikácie – vysvetľujúca prezentácia.pptx`). Pôvodná verzia stavia na prieskumoch a číslach; táto namiesto nich vysvetľuje tému na príkladoch a prirovnaniach (export dát, tichá pošta, telefonát/list/knižnica, riadiaca veža), aby ju pochopil aj niekto, kto ju nepozná. Jediné „číslo“ je počet komunikačných spojení n·(n−1)/2 – slúži ako ilustrácia, nie ako meranie.
 
-Rozdelenie rovnaké ako v pôvodnej: Adam slajdy 1–5 a záver, Nikolas slajdy 6–12. Pri pokojnom tempe vychádza okolo 6:45 – 7:00; ak treba skrátiť, najľahšie sa dá vynechať slajd 7 (komunikačný plán) alebo pri slajde 4 povedať iba ľavú časť.
+Rozdelenie rovnaké ako v pôvodnej: Adam slajdy 1–5 a záver, Nikolas slajdy 6–14. Pri pokojnom tempe vychádza okolo 8:00 – 8:15; ak treba skrátiť, najľahšie sa dá vynechať slajd 7 (komunikačný plán), jeden z príkladov PMO (12–14) alebo pri slajde 4 povedať iba ľavú časť.
 
 ## 1. Úvodný slajd · 15 s · Adam
 
@@ -70,18 +70,30 @@ Riadiace PMO je ako rozhodca s pravidlami: vyžaduje spoločnú metodiku a jedno
 
 Direktívne PMO je ako kapitán – projekty priamo riadi. Pri strategických projektoch dáva zmysel, no je drahé a môže sa stať úzkym hrdlom.
 
-## 12. Príklad: jeden tester a tri projekty · 35 s · Nikolas
+## 12. Príklad 1: tri reporty a každý je iný · 35 s · Nikolas
 
-Ukážeme to na vymyslenom príklade. Firma má tri projekty a jedného bezpečnostného testera. Každý manažér ho plánuje, akoby bol iba jeho, a všetky tri termíny padnú na ten istý týždeň.
+Ukážeme si každý typ PMO na jednom vymyslenom príklade. Prvý: malá firma má tri projekty a skúsených manažérov. Každý však píše report po svojom a „zelený“ znamená u jedného „ideme podľa plánu“, u druhého „zatiaľ to nehorí“. Vedenie dostane tri reporty a nevie ich porovnať.
 
-Podporné PMO by iba poradilo plánovať skôr – ale konflikt by to nevyriešilo. Direktívne PMO by to vyriešilo, no pri troch projektoch je to zbytočne drahé. Riadiace PMO zavedie spoločný kalendár zdieľaných ľudí a pravidlo, že o prioritách rozhodne vedenie podľa podkladov od PMO. Typ PMO teda vyberáme podľa problému.
+Tu stačí podporné PMO. Dá jednu šablónu reportu a vysvetlí, čo znamená zelená, oranžová a červená – a skúsení manažéri ju radi prevezmú, lebo im to uľahčí prácu. Riadiace PMO by fungovalo tiež, ale povinné kontroly by boli zbytočná byrokracia. A direktívne PMO by bolo strieľanie kanónom na vrabce.
 
-## 13. Čo si z toho odniesť · 30 s · Adam
+## 13. Príklad 2: jeden tester a tri projekty · 35 s · Nikolas
+
+Druhý príklad: firma má tri projekty a jedného bezpečnostného testera. Každý manažér ho plánuje, akoby bol iba jeho, a všetky tri termíny padnú na ten istý týždeň.
+
+Podporné PMO by iba poradilo plánovať skôr – ale konflikt by to nevyriešilo. Direktívne PMO by to vyriešilo, no pri troch projektoch je to zbytočne drahé. Riadiace PMO zavedie spoločný kalendár zdieľaných ľudí a pravidlo, že o prioritách rozhodne vedenie podľa podkladov od PMO.
+
+## 14. Príklad 3: strategický projekt so zákonným termínom · 35 s · Nikolas
+
+Tretí príklad: banka musí do zákonného termínu prejsť na nový platobný systém. Robia na ňom traja dodávatelia, každý komunikuje s bankou zvlášť a na rozhodnutia sa čaká týždne. Ak termín nestihnú, hrozí pokuta.
+
+Podporné PMO tu nepomôže – problém nie je vo formáte reportu, ale v tom, že nikto nerozhoduje. Riadiace PMO by aspoň ukázalo, kde to viazne, ale rozhodovanie by zostalo rozdrobené. Direktívne PMO prevezme riadenie celého programu: jeden manažér, spoločné denné stretnutie a rozhodnutia v ten istý deň. Je to drahé, ale pri takomto projekte sa to oplatí. Typ PMO teda vyberáme podľa problému.
+
+## 15. Čo si z toho odniesť · 30 s · Adam
 
 Na záver tri myšlienky. Prvá: komunikácia znamená porozumenie – správa splnila účel, až keď ju príjemca pochopí a vie podľa nej konať. Druhá: komunikáciu treba riadiť vedome – naplánovať podľa potrieb ľudí, priebežne riadiť a kontrolovať, či funguje. A tretia: PMO drží komunikáciu pokope naprieč projektmi a jeho typ vyberáme podľa problému.
 
 A ak si máte zapamätať jednu vetu: nástroje ani porady komunikáciu samy nezaručia – zaručia ju ľudia, ktorí si overujú, že si rozumejú. Ďakujeme a tešíme sa na otázky.
 
-## 14. záložný slajd – Referencie
+## 16. záložný slajd – Referencie
 
 Záložný slajd so zdrojmi, z ktorých sme vychádzali.
