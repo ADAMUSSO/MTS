@@ -44,9 +44,9 @@ Dôležité je začať od ľudí, nie od nástrojov – až potom vyberáme Team
 
 ## 8. Každý v projekte hovorí trochu iným jazykom · 35 s · Nikolas
 
-Takto zjednodušene vyzerá, kto s kým v projekte komunikuje. Všimnite si, že každý hovorí o niečom inom: klient o cieľoch, Product Owner o prioritách, vývojári o technickom riešení, vedenie o peniazoch a termínoch. Preto projekt potrebuje prekladateľov. Product Owner prekladá potreby klienta do úloh pre vývoj a projektový manažér prekladá technický stav do reči dopadov pre vedenie.
+Každý v projekte hovorí o tom, čo sám rieši: klient o cieľoch, vývojár o technickom riešení, vedenie o peniazoch a termínoch. Preto projekt potrebuje prekladateľov.
 
-Oranžové body sú tri miesta, kde sa informácia stráca najčastejšie – na tie sa pozrieme teraz.
+Hore: klient povie, že chce, aby si zákazník vedel sám stiahnuť faktúru. Product Owner to preloží do konkrétnej úlohy – tlačidlo Stiahnuť PDF pri faktúre. Dole opačný smer: vývojár povie, že platobný modul má technický dlh. Vedeniu to nič nepovie, tak projektový manažér to preloží do dopadu – bez dvoch týždňov na opravu bude každá zmena platieb pomalšia a rizikovejšia. Keď tento preklad chýba, vznikajú bariéry, ktoré ukážeme teraz.
 
 ## 9. Tri typické bariéry a ako ich obísť · 40 s · Nikolas
 
