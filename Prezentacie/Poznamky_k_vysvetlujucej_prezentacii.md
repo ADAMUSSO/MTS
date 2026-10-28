@@ -40,7 +40,7 @@ Teraz k tomu, ako komunikáciu v projekte riadiť. Podľa PMBOK sú to tri kroky
 
 Ako vyzerá komunikačný plán? Nemusí to byť hrubý dokument. Často stačí takáto tabuľka: kto, čo potrebuje vedieť, ako často, akým kanálom a kto za to zodpovedá. Sponzor chce raz za dva týždne vedieť stav, riziká a čo má rozhodnúť. Klient chce každý šprint vidieť demo. Tím rieši úlohy denne a prevádzka potrebuje vedieť, čo a kedy sa nasadí.
 
-Dôležité je začať od ľudí, nie od nástrojov – až potom vyberáme Teams alebo Jiru. A plán má mať aj eskalačnú cestu: keď sa niečo zasekne, každý vie, komu to povedať.
+Dôležité je začať od ľudí, nie od nástrojov – až potom vyberáme Teams alebo Jiru. A plán má mať aj eskalačnú cestu: keď sa niečo zasekne, každý vie, komu to povedať a dokedy.
 
 ## 8. Každý v projekte hovorí trochu iným jazykom · 35 s · Nikolas
 
@@ -56,19 +56,19 @@ Druhá je technický text pre vedenie. Veta „padá nám migrácia databázy“
 
 Tretia je chýbajúca spätná väzba. Pomôže zopakovať zadanie vlastnými slovami a prostredie, kde sa nikto nebojí povedať zlú správu. Inak vzniká melónový report – zelený navonok a červený vo vnútri.
 
-## 10. PMO funguje ako riadiaca veža na letisku · 40 s · Nikolas
+## 10. Kancelária projektového manažmentu · 40 s · Nikolas
 
-Tretia časť je kancelária projektového manažmentu, PMO. Pilot riadi svoje lietadlo – to je projektový manažér a jeho projekt. Riadiaca veža vidí všetky lietadlá naraz a stará sa, aby sa nezrazili – to je PMO.
+Tretia časť je kancelária projektového manažmentu, skrátene PMO. Je to útvar, ktorý zjednocuje, ako sa v organizácii riadia projekty, a podporuje ich metodikou, nástrojmi a ľuďmi. Každý projekt má svojho manažéra, PMO stojí nad nimi a vidí všetky projekty naraz.
 
-Čo konkrétne robí? Dáva projektom spoločný jazyk – rovnaké šablóny a rovnaký význam toho, čo je „zelený“ stav. Sleduje zdieľaných ľudí, aby si projekty nebrali toho istého človeka naraz. Dáva vedeniu porovnateľný prehľad zo všetkých projektov. A prenáša poučenia z jedného projektu do ďalšieho. PMO je teda v podstate komunikačná infraštruktúra celej organizácie.
+Čo konkrétne robí? Prvé je spoločný jazyk – rovnaké šablóny a rovnaký význam stavu projektu. V reportoch sa stav často hlási farbou ako na semafore: zelená znamená, že ide podľa plánu, oranžová, že je tam riziko, a červená, že treba rozhodnutie vedenia. PMO určí, kedy je projekt naozaj zelený, aby „zelená“ znamenala v každom projekte to isté. Druhé sú zdieľaní ľudia – PMO má prehľad, kto na čom robí, aby si projekty nebrali toho istého človeka naraz. Tretie je jeden prehľad – vedenie dostane porovnateľné správy zo všetkých projektov na jednom mieste. A štvrté sú poučenia – čo sa naučil jeden projekt, ďalší už nemusí opakovať.
 
 ## 11. Tri typy PMO sa líšia tým, koľko kontrolujú · 40 s · Nikolas
 
-PMO nie je jedno – rozlišujeme tri typy podľa toho, koľko kontroly majú. Podporné PMO je ako poradca: ponúka šablóny a rady, ale nikoho nenúti. Hodí sa pri pár projektoch so skúsenými manažérmi, no keď nemá autoritu, nikto ho nepočúva.
+PMO nie je jedno – rozlišujeme tri typy podľa toho, koľko kontroly majú. Podporné PMO je ako poradca: ponúka šablóny, školenia a rady, ale nikoho do ničoho nenúti. Hodí sa pri pár projektoch so skúsenými manažérmi, no keď nemá autoritu, nikto ho nepočúva.
 
-Riadiace PMO je ako rozhodca s pravidlami: vyžaduje spoločnú metodiku a jednotné reporty. Dáva zmysel, keď si projekty delia ľudí, ale ľahko z neho vznikne byrokracia.
+Riadiace PMO je ako rozhodca s pravidlami: vyžaduje spoločnú metodiku a jednotné reporty a kontroluje ich. Dáva zmysel, keď si projekty delia ľudí alebo vedenie chce porovnateľný prehľad, ale ľahko z neho vznikne byrokracia.
 
-Direktívne PMO je ako kapitán – projekty priamo riadi. Pri strategických projektoch dáva zmysel, no je drahé a môže sa stať úzkym hrdlom.
+Direktívne PMO je ako kapitán – projekty priamo riadi a manažéri patria pod neho. Pri strategických a veľmi rizikových projektoch dáva zmysel, no je drahé a môže sa stať úzkym hrdlom.
 
 ## 12. Príklad 1: tri reporty a každý je iný · 35 s · Nikolas
 
@@ -90,7 +90,7 @@ Podporné PMO tu nepomôže – problém nie je vo formáte reportu, ale v tom, 
 
 ## 15. Čo si z toho odniesť · 30 s · Adam
 
-Na záver tri myšlienky. Prvá: komunikácia znamená porozumenie – správa splnila účel, až keď ju príjemca pochopí a vie podľa nej konať. Druhá: komunikáciu treba riadiť vedome – naplánovať podľa potrieb ľudí, priebežne riadiť a kontrolovať, či funguje. A tretia: PMO drží komunikáciu pokope naprieč projektmi a jeho typ vyberáme podľa problému.
+Na záver tri myšlienky. Prvá: komunikácia znamená porozumenie – správa splnila účel, až keď ju príjemca pochopí a vie podľa nej konať. Druhá: komunikáciu treba riadiť vedome – naplánovať podľa potrieb ľudí, priebežne riadiť a kontrolovať, či funguje. A tretia: PMO drží celok pokope – zjednocuje jazyk a prehľad naprieč projektmi a jeho typ vyberáme podľa problému.
 
 A ak si máte zapamätať jednu vetu: nástroje ani porady komunikáciu samy nezaručia – zaručia ju ľudia, ktorí si overujú, že si rozumejú. Ďakujeme a tešíme sa na otázky.
 
